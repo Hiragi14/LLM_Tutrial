@@ -38,7 +38,7 @@ Hugging Faceのモデルカード情報リンク。基本的な使用方法と�
 ```
 
 ## ライセンス
-[LLaMa2ライセンス](https://www.llama.com/llama2/license/)\
-[LLaMa3ライセンス](https://www.llama.com/llama3/license/)\
-[Gemmaライセンス](https://ai.google.dev/gemma/terms)\
-[Gemma禁止事項](https://ai.google.dev/gemma/prohibited_use_policy)
+- [LLaMa2ライセンス](https://www.llama.com/llama2/license/)
+- [LLaMa3ライセンス](https://www.llama.com/llama3/license/)
+- [Gemmaライセンス](https://ai.google.dev/gemma/terms)
+- [Gemma禁止事項](https://ai.google.dev/gemma/prohibited_use_policy)
