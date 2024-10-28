@@ -1,0 +1,5 @@
+# 草案フォルダを除外
+/draft/
+
+# 未完成ノートを除外
+/llm_tutrial_2_gemma.ipynb
