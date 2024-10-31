@@ -16,7 +16,7 @@ Hugging Faceのモデルカード情報リンク。基本的な使用方法と�
 
 **LLaMa3-8B**
 
-- [Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+- [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
 
 **Gemma**
 
