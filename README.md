@@ -35,6 +35,7 @@ Hugging Faceのモデルカード情報リンク。基本的な使用方法と�
 .
 /llm_tutrial_1_gemma.ipynb
 /llm_tutrial_1-2_llama.ipynb
+/llm_tutrial_2_gemma.ipynb  # 作成中
 ```
 
 ## ライセンス
